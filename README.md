@@ -19,8 +19,8 @@
 
 
 <br>
--<p align="left">
-  <strong>Find-me:</strong><br>
+<p align="left">
+  <strong>-Find-me:</strong><br>
 <a href="mailto:ferrlucs@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-ferrlucs@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ferrlucs@gmail.com" /></a>
   
