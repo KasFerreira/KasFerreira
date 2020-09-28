@@ -2,7 +2,7 @@
 <br>
 
 
-<img src="https://raw.githubusercontent.com/KasFerreira/KasFerreira/master/dino.gif" max-width="450px" width="450px" align="right" alt="Computador IuriCode">
+<img src="https://raw.githubusercontent.com/KasFerreira/KasFerreira/master/dino.gif" max-width="550px" width="550px" align="right" alt="Computador IuriCode">
 
 
 - 🔭 I’m currently doing a <strong>Bachelor degree in Information Systems.</strong>
@@ -18,7 +18,7 @@
 
 
 
-
+<br><br>
 <p align="left">
   <strong>Find-me:</strong><br><br><br><br>
 <a href="mailto:ferrlucs@gmail.com" alt="Gmail">
