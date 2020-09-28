@@ -18,14 +18,14 @@
 
 
 
-<br><br
-<p align="left">
+<br>
+-<p align="left">
   <strong>Find-me:</strong><br>
 <a href="mailto:ferrlucs@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
+<img src="https://img.shields.io/badge/-ferrlucs@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ferrlucs@gmail.com" /></a>
   
 <a href="https://www.linkedin.com/in/ferrlucs/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+<img src="https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferrlucs" /></a>
   
 
  </p>
