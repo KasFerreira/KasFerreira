@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there, Welcome to my github profile.👋
+<br>
 
-<!--
-**KasFerreira/KasFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/KasFerreira/KasFerreira/master/dino.gif" max-width="450px" width="450px" align="right" alt="Computador IuriCode">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently doing a <strong>Bachelor degree in Information Systems.</strong>
+- 🌱 I’m currently learning:<strong> React, Node.js, C#.</strong>
+- 👯 I’m looking to collaborate on Anything related to Web development.
+
+
+
+<p>
+
+</p>
+
+
+
+
+
+<p align="left">
+  <strong>Find-me:</strong><br>
+<a href="mailto:ferrlucs@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
+  
+<a href="https://www.linkedin.com/in/ferrlucs/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  
+
+ </p>
+
