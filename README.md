@@ -18,9 +18,9 @@
 
 
 
-<br><br>
+<br><br
 <p align="left">
-  <strong>Find-me:</strong><br><br><br><br>
+  <strong>Find-me:</strong><br>
 <a href="mailto:ferrlucs@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
   
