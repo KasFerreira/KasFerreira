@@ -17,7 +17,7 @@
 <br>
 <p align="left" margin-left="120px;">
    <strong> Find-me</strong>
-  <br>
+  <br><br>
 <a href="mailto:ferrlucs@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-ferrlucs@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ferrlucs@gmail.com" /></a>
   
