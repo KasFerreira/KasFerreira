@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently doing a <strong>Bachelor degree in Information Systems.</strong>
-- 🌱 I’m currently learning:<strong> React, React Native, Node.js, PHP and C#.</strong>
+- 🌱 I’m currently learning:<strong> React, React Native, Node.js, PHP .</strong>
 - 👯 I’m looking to collaborate on Anything related to Web development.
 	
   
