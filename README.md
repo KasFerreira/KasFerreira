@@ -5,10 +5,6 @@
 <img src="https://raw.githubusercontent.com/KasFerreira/KasFerreira/master/dino.gif" max-width="550px" width="550px" align="right" alt="Computador IuriCode">
 
 
-- 🔭 I’m currently doing a degree <strong> in Information Systems.</strong>
-- 🌱 I’m currently learning:<strong> React, React Native, Node.js, PHP .</strong>
-- 👯 I’m looking to collaborate on Anything related to Web development.
-	
   
 
 
